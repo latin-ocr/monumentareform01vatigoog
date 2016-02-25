@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./monumentareform01vatigoog_0622.png"; bbox 0 0 3559 5734; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1881 87 2549 206">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1881 76 2549 206">
+     <span class='ocr_line' id='line_1_1' title="bbox 1881 87 2549 206; baseline -0.039 1"><span class='ocrx_word' id='word_1_1' title='bbox 1881 87 2549 206; x_wconf 48' lang='lat' dir='ltr'>aqnqveaauee</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1660 62 2778 730">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1660 62 2778 730">
+     <span class='ocr_line' id='line_1_2' title="bbox 1660 62 2778 730; baseline 0 5004"><span class='ocrx_word' id='word_1_2' title='bbox 1660 62 2778 730; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1779 282 2774 677">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1776 282 2774 677">
+     <span class='ocr_line' id='line_1_3' title="bbox 1779 282 2774 677; baseline -0.037 -115.111"><span class='ocrx_word' id='word_1_3' title='bbox 1779 282 2661 565; x_wconf 80' lang='grc'>1111111111111111</span> <span class='ocrx_word' id='word_1_4' title='bbox 2773 674 2774 677; x_wconf 4' lang='lat' dir='ltr'>w</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1925 562 2541 646">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1925 562 2541 646">
+     <span class='ocr_line' id='line_1_4' title="bbox 1925 562 2541 646; baseline -0.041 0"><span class='ocrx_word' id='word_1_5' title='bbox 1925 562 2541 646; x_wconf 62' lang='lat' dir='ltr'>h39091233422a</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
